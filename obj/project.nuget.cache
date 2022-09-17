@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwC2w6k3Ix6awcCN6cZJi0Z5bdkyWnGQ/jdLfAbdN3ZdvmX1ZclOO3/97iL1ho2asr9K1faV00Ial0JIyrs/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\source\\repos\\BAuth\\BAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
