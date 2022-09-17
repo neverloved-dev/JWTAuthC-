@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XwC2w6k3Ix6awcCN6cZJi0Z5bdkyWnGQ/jdLfAbdN3ZdvmX1ZclOO3/97iL1ho2asr9K1faV00Ial0JIyrs/tA==",
+  "dgSpecHash": "ZGhsDKorMtfaPh+TuqohyWIkXrSANHJnZX/y0X9trb44Do16JpUHZn4rlRJa0mjGFJeXE3KYkGiF6/DNSDVB4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\source\\repos\\BAuth\\BAuth.csproj",
+  "projectFilePath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
