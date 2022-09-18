@@ -48,7 +48,7 @@ namespace BAuth.Controllers
             using (var hmac = new HMACSHA256(PasswordSalt))
             {
                 var computedHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-                return computedHash.SequenceEqual(passwordHash);
+                return computedHash.SequenceEqual(passwordHash); // Not working
             }
          }
 
