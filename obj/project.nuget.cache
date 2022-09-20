@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DLxssMcoGc+gjLVWJXo9Y1hp9fLNnmB0Tb22nmkigpWVRh658YcS64LwdzYLB1hgJqCh6bkaV1+PohnGfoQt5g==",
+  "dgSpecHash": "x9bOUMLE23RbxVn/0c1eXRz2nmAVvZTUDpFVBdvyp+zzS6ZjslcHGqP/2xdnEMbUfsQ9o6Xu8Qbb7QoPnBmQyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj",
+  "projectFilePath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\JWTAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

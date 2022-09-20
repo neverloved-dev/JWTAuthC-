@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj": {}
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\JWTAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj": {
+    "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\JWTAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj",
-        "projectName": "BAuth",
-        "projectPath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\BAuth.csproj",
+        "projectUniqueName": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\JWTAuth.csproj",
+        "projectName": "JWTAuth",
+        "projectPath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\JWTAuth.csproj",
         "packagesPath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Dorde Andic.DESKTOP-HBA2V06\\Desktop\\c-app-api-bauthc-d089367ddcd7\\obj\\",
         "projectStyle": "PackageReference",
